@@ -1,0 +1,19 @@
+{
+  "name": "mk786_cli_number_guessing_game",
+  "version": "1.0.1",
+  "description": "this is my CLI project01_number_guessing-game with typescript ,Node.js and Inquirer.. ",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Madiha Khan",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
